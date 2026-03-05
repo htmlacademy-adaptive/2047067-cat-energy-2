@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
-* Студент: [Anastasiia Chernenkova](https://up.htmlacademy.ru/adaptive-individual/2/user/2047067).
-* Наставник: `Неизвестно`.
+* Студент: [Анастасия Черненкова](https://up.htmlacademy.ru/adaptive-individual/2/user/2047067).
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
 
 ---
 
